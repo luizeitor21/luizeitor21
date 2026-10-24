@@ -1,4 +1,4 @@
-# Hellow Word, sou o Luiz Eitor! 👋
+# Hello World, sou o Luiz Eitor! 👋
 
 Sou estudante de **TSI (Sistemas para Internet)** no Instituto Federal do Rio Grande do Norte (IFRN) - Campus Canguaretama. 
 
